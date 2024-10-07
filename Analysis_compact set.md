@@ -11,4 +11,4 @@ More formally:
 
 my opinion/thinking : If space is euclidean, and further suppose space is R\_1, to satisfy compact set’s definition, we should find least set.
 
-Suppose A \= {1/n} U 0 sequence. since 0 \- 1/n is less than any positive epsilon, A is bounded and closed. Hence, A is compact set in R\_1 
+Suppose A \= {1/n} U 0 sequence. 1) 0 - 1/n is less than any positive epsilon so it satisfies def, 2) A is bounded and closed. Hence, A is compact set in R\_1 
